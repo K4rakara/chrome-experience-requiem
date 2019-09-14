@@ -9,9 +9,15 @@ Can easily be blocked by almost any Browser in 1 of 2 ways:
 - Some Browsers, such as Google Chrome, block audio from playing on websites based on the users "Media Engagement Index threshold" on a given website (See here for more info). Because of this, the GioGio theme and "Kono Giorno Giovanna yume ga aru" will not play, unless the webpage is listed as "Allowed" under `Privacy & Security > Site Settings > Sound` in Chrome Settings.
 - Most modern Browsers have Pop-Up blocking enabled by default. If they have this feature and it is on, then Chrome Experience Requiem will not work.
 
-## Demo
+## Demos
 
-[![Watch the video](https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg)](https://youtu.be/KwdDHZ3KW3E)
+Note that any demos shown have Popups and Audio autoplay enabled to show what its *supposed* to do.
+
+- [![Chrome Experience Requiem vs. Chromium OS](https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg)](https://youtu.be/KwdDHZ3KW3E)
+- Chrome Experience Requiem vs. Ubuntu + Chromium (TODO)
+- Chrome Experience Requiem vs. Ubuntu + FireFox (TODO)
+- Chrome Experience Requiem vs. Android + Safari (TODO)
+
 
 ## Warning
 
