@@ -11,12 +11,12 @@ Can easily be blocked by almost any Browser in 1 of 2 ways:
 
 ## Demos
 
-Note that any demos shown have Popups and Audio autoplay enabled to show what its *supposed* to do.
+Note that any demos shown have Popups and Audio autoplay enabled to show what Chrome Experience Requiem *supposed* to do.
 
-- [![Chrome Experience Requiem vs. Chromium OS](https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg)](https://youtu.be/KwdDHZ3KW3E)
+- [[Chrome Experience Requiem vs. Chromium OS](https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg)](https://youtu.be/KwdDHZ3KW3E)
 - Chrome Experience Requiem vs. Ubuntu + Chromium (TODO)
 - Chrome Experience Requiem vs. Ubuntu + FireFox (TODO)
-- Chrome Experience Requiem vs. Android + Safari (TODO)
+- Chrome Experience Requiem vs. Android + Chrome (TODO)
 
 
 ## Warning
