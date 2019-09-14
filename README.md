@@ -13,7 +13,7 @@ Can easily be blocked by almost any Browser in 1 of 2 ways:
 
 Note that any demos shown have Popups and Audio autoplay enabled to show what Chrome Experience Requiem *supposed* to do.
 
-- [Chrome Experience Requiem vs. Chromium OS](https://youtu.be/KwdDHZ3KW3E)
+- [<img src="https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg" width="50%">](https://youtu.be/KwdDHZ3KW3E) Chrome Experience Requiem vs. Chromium OS
 - Chrome Experience Requiem vs. Ubuntu + Chromium (TODO)
 - Chrome Experience Requiem vs. Ubuntu + FireFox (TODO)
 - Chrome Experience Requiem vs. Android + Chrome (TODO)
