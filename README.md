@@ -18,5 +18,5 @@ TODO: add video of demo
 This program was developed as a joke, without malicious intent. That being said, I am not liable any sort of  damage or harm done to your computer by Chrome Experience Requiem. If you choose to open the page containing Chrome Experience Requiem, you take full responsability of any damages done to your computer. You may not send the link to other. If you send a Link or a Shortlink containing or linking to Chrome Experience requiem to someone or use any other methood of redirecting someone to Chrome Experience Requiem, you yourself take responability for any damage done to their machine.
 <details> 
   <summary>If you agree to these terms, you may use this link.</summary>
-  [Chrome Experience Requiem](https://k4rakara.github.io/chrome-experience-requiem/)
+  https://k4rakara.github.io/chrome-experience-requiem/
 </details>
