@@ -11,7 +11,7 @@ Can easily be blocked by almost any Browser in 1 of 2 ways:
 
 ## Demo
 
-TODO: add video of demo
+[![Watch the video](https://img.youtube.com/vi/KwdDHZ3KW3E/maxresdefault.jpg)](https://youtu.be/KwdDHZ3KW3E)
 
 ## Warning
 
