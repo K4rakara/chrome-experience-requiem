@@ -2,6 +2,8 @@
 
 Chrome experience requiem is a browser-based Forkbomb/Wabbit designed to be a JoJos reference.
 
+Edit: Chill bros, don't get me written up over this lel.
+
 ## Notes
 
 Can easily be blocked by almost any Browser in 1 of 2 ways:
@@ -14,14 +16,10 @@ Can easily be blocked by almost any Browser in 1 of 2 ways:
 Note that any demos shown have Popups and Audio autoplay enabled to show what Chrome Experience Requiem *supposed* to do.
 
 - [Chrome Experience Requiem vs. Chromium OS](https://www.youtube.com/watch?v=KwdDHZ3KW3E)
-- Chrome Experience Requiem vs. Ubuntu + Chromium (TODO)
-- Chrome Experience Requiem vs. Ubuntu + FireFox (TODO)
-- Chrome Experience Requiem vs. Android + Chrome (TODO)
-
 
 ## Warning
 
-This program was developed as a joke, without malicious intent. That being said, I am not liable any sort of  damage or harm done to your computer by Chrome Experience Requiem. If you choose to open the page containing Chrome Experience Requiem, you take full responsability of any damages done to your computer. You may not send the link to other. If you send a Link or a Shortlink containing or linking to Chrome Experience requiem to someone or use any other methood of redirecting someone to Chrome Experience Requiem, you yourself take responability for any damage done to their machine.
+This program was developed as a joke, without malicious intent. That being said, I'm not liable for any potential damage to your computer. If you send this to someone else, you become liable for damage to their computer.
 <details> 
   <summary>If you agree to these terms, you may use this link.</summary>
   https://k4rakara.github.io/chrome-experience-requiem/
