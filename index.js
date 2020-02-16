@@ -6,7 +6,7 @@ let wabbitContent = '';
 })();
 
 async function createWabbit() { //Create a very similar clone window, with code to clone itself.
-	let wabbit = window.open('https://k4rakara.github.io/chrome-experience-requiem/index.js','Wha-','width = 200,height = 200');
+	let wabbit = window.open('data:text/html,<!DOCTYPE html><head><title>wha</title></head><body></body>','Wha-','width = 200,height = 200');
 	wabbit.document.body.innerHTML = wabbitContent;
   	wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
 }
