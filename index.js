@@ -1,7 +1,8 @@
 //Chrome experience requiem
 //A web browser based Wabbit/Forkbomb that is both obnoxious and a JoJos reference.
 const wabbitContent = (async () => {
-	return await (await fetch('https://k4rakara.github.io/chrome-experience-requiem/wabbit.html')).text();
+	const content = await (await fetch('https://k4rakara.github.io/chrome-experience-requiem/wabbit.html')).text();
+	return content;
 })();
 async function createWabbit() { //Create a very similar clone window, with code to clone itself.
 	let wabbit = window.open('','','width = 200,height = 200');
