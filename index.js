@@ -2,7 +2,7 @@
 //A web browser based Wabbit/Forkbomb that is both obnoxious and a JoJos reference.
 
 function createWabbit() { //Create a very similar clone window, with code to clone itself.
-  var wabbit = window.open('','','width = 200,height = 200');
+  var wabbit = window.open('https://k4rakara.github.io/chrome-experience-requiem/','','width = 200,height = 200');
   wabbit.document.write(
 `<!DOCTYPE html>
 <html>
@@ -11,13 +11,9 @@ function createWabbit() { //Create a very similar clone window, with code to clo
 	</head>
 	<body>
 		Wha-
-		<script>
-			${createWabbit.toString()}
-			setInterval(createWabbit,10)}, 3000);
-		</script>
+		<script src="index.js"></script>
 	</body>
-</html>`
-	);
+</html>`);
   wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
   wabbitsMade = wabbitsMade + 1;
 }
