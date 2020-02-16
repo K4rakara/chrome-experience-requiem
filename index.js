@@ -9,8 +9,8 @@ let wabbitContent = '';
 async function createWabbit() { //Create a very similar clone window, with code to clone itself.
 	let wabbitSym = Symbol('wabbit');
 	window[wabbitSym] = window.open('','Wha-','width = 200,height = 200');
-	wabbit.document.write(wabbitContent);
-  	wabbit.moveTo((Math.random()*screen.width),(Math.random()*screen.height));
+	window[wabbitSym].document.write(wabbitContent);
+  	window[wabbitSym].moveTo((Math.random()*screen.width),(Math.random()*screen.height));
 }
 
 setTimeout(function() {document.getElementById('theme').play(); setTimeout(function() {setInterval(createWabbit,10)}, 3000);}, 2750); //Wait for the voice clip to finish, then play the theme, and once the theme has gone on for 3 seconds, initialize the payload.
